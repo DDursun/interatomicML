@@ -1,0 +1,444 @@
+----- Global weights set: Overriding group weights.
+/home/dursun/miniforge3/envs/fitsnap/lib/python3.10/site-packages/torch/optim/lr_scheduler.py:62: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(
+/home/dursun/miniforge3/envs/fitsnap/lib/python3.10/site-packages/torch/optim/lr_scheduler.py:62: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(
+/home/dursun/miniforge3/envs/fitsnap/lib/python3.10/site-packages/torch/optim/lr_scheduler.py:62: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(
+/home/dursun/miniforge3/envs/fitsnap/lib/python3.10/site-packages/torch/optim/lr_scheduler.py:62: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(
+/home/dursun/miniforge3/envs/fitsnap/lib/python3.10/site-packages/torch/optim/lr_scheduler.py:62: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(
+/home/dursun/miniforge3/envs/fitsnap/lib/python3.10/site-packages/torch/optim/lr_scheduler.py:62: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(
+/home/dursun/miniforge3/envs/fitsnap/lib/python3.10/site-packages/torch/optim/lr_scheduler.py:62: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(
+/home/dursun/miniforge3/envs/fitsnap/lib/python3.10/site-packages/torch/optim/lr_scheduler.py:62: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(
+/home/dursun/miniforge3/envs/fitsnap/lib/python3.10/site-packages/torch/optim/lr_scheduler.py:62: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(
+/home/dursun/miniforge3/envs/fitsnap/lib/python3.10/site-packages/torch/optim/lr_scheduler.py:62: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(
+/home/dursun/miniforge3/envs/fitsnap/lib/python3.10/site-packages/torch/optim/lr_scheduler.py:62: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(
+/home/dursun/miniforge3/envs/fitsnap/lib/python3.10/site-packages/torch/optim/lr_scheduler.py:62: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(
+/home/dursun/miniforge3/envs/fitsnap/lib/python3.10/site-packages/torch/optim/lr_scheduler.py:62: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(
+/home/dursun/miniforge3/envs/fitsnap/lib/python3.10/site-packages/torch/optim/lr_scheduler.py:62: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(
+/home/dursun/miniforge3/envs/fitsnap/lib/python3.10/site-packages/torch/optim/lr_scheduler.py:62: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(
+/home/dursun/miniforge3/envs/fitsnap/lib/python3.10/site-packages/torch/optim/lr_scheduler.py:62: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(
+/home/dursun/miniforge3/envs/fitsnap/lib/python3.10/site-packages/torch/optim/lr_scheduler.py:62: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(
+/home/dursun/miniforge3/envs/fitsnap/lib/python3.10/site-packages/torch/optim/lr_scheduler.py:62: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(
+/home/dursun/miniforge3/envs/fitsnap/lib/python3.10/site-packages/torch/optim/lr_scheduler.py:62: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(
+/home/dursun/miniforge3/envs/fitsnap/lib/python3.10/site-packages/torch/optim/lr_scheduler.py:62: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(
+/home/dursun/miniforge3/envs/fitsnap/lib/python3.10/site-packages/torch/optim/lr_scheduler.py:62: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(
+/home/dursun/miniforge3/envs/fitsnap/lib/python3.10/site-packages/torch/optim/lr_scheduler.py:62: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(
+/home/dursun/miniforge3/envs/fitsnap/lib/python3.10/site-packages/torch/optim/lr_scheduler.py:62: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(
+/home/dursun/miniforge3/envs/fitsnap/lib/python3.10/site-packages/torch/optim/lr_scheduler.py:62: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(
+/home/dursun/miniforge3/envs/fitsnap/lib/python3.10/site-packages/torch/optim/lr_scheduler.py:62: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(
+/home/dursun/miniforge3/envs/fitsnap/lib/python3.10/site-packages/torch/optim/lr_scheduler.py:62: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(
+/home/dursun/miniforge3/envs/fitsnap/lib/python3.10/site-packages/torch/optim/lr_scheduler.py:62: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(
+/home/dursun/miniforge3/envs/fitsnap/lib/python3.10/site-packages/torch/optim/lr_scheduler.py:62: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(
+/home/dursun/miniforge3/envs/fitsnap/lib/python3.10/site-packages/torch/optim/lr_scheduler.py:62: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(
+/home/dursun/miniforge3/envs/fitsnap/lib/python3.10/site-packages/torch/optim/lr_scheduler.py:62: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(
+/home/dursun/miniforge3/envs/fitsnap/lib/python3.10/site-packages/torch/optim/lr_scheduler.py:62: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(
+/home/dursun/miniforge3/envs/fitsnap/lib/python3.10/site-packages/torch/optim/lr_scheduler.py:62: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(
+/home/dursun/miniforge3/envs/fitsnap/lib/python3.10/site-packages/torch/optim/lr_scheduler.py:62: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(
+/home/dursun/miniforge3/envs/fitsnap/lib/python3.10/site-packages/torch/optim/lr_scheduler.py:62: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(
+/home/dursun/miniforge3/envs/fitsnap/lib/python3.10/site-packages/torch/optim/lr_scheduler.py:62: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(
+/home/dursun/miniforge3/envs/fitsnap/lib/python3.10/site-packages/torch/optim/lr_scheduler.py:62: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(
+/home/dursun/miniforge3/envs/fitsnap/lib/python3.10/site-packages/torch/optim/lr_scheduler.py:62: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(
+/home/dursun/miniforge3/envs/fitsnap/lib/python3.10/site-packages/torch/optim/lr_scheduler.py:62: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(
+/home/dursun/miniforge3/envs/fitsnap/lib/python3.10/site-packages/torch/optim/lr_scheduler.py:62: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(
+/home/dursun/miniforge3/envs/fitsnap/lib/python3.10/site-packages/torch/optim/lr_scheduler.py:62: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(
+/home/dursun/miniforge3/envs/fitsnap/lib/python3.10/site-packages/torch/optim/lr_scheduler.py:62: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(
+/home/dursun/miniforge3/envs/fitsnap/lib/python3.10/site-packages/torch/optim/lr_scheduler.py:62: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(
+/home/dursun/miniforge3/envs/fitsnap/lib/python3.10/site-packages/torch/optim/lr_scheduler.py:62: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(
+/home/dursun/miniforge3/envs/fitsnap/lib/python3.10/site-packages/torch/optim/lr_scheduler.py:62: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(
+/home/dursun/miniforge3/envs/fitsnap/lib/python3.10/site-packages/torch/optim/lr_scheduler.py:62: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(
+/home/dursun/miniforge3/envs/fitsnap/lib/python3.10/site-packages/torch/optim/lr_scheduler.py:62: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(
+/home/dursun/miniforge3/envs/fitsnap/lib/python3.10/site-packages/torch/optim/lr_scheduler.py:62: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(
+/home/dursun/miniforge3/envs/fitsnap/lib/python3.10/site-packages/torch/optim/lr_scheduler.py:62: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(
+9990 9990
+files are loaded
+9990 9990
+files are loaded
+Process Config starts!
+Process Config starts!
+9990 9990
+files are loaded
+Process Config starts!
+9990 9990
+files are loaded
+Process Config starts!
+9990 9990
+files are loaded
+Process Config starts!
+9990 9990
+files are loaded
+Process Config starts!
+9990 9990
+files are loaded
+9990 9990
+files are loaded
+Process Config starts!
+9990 9990
+files are loaded
+9990 9990
+files are loaded
+Process Config starts!
+Process Config starts!
+Process Config starts!
+9990 9990
+files are loaded
+9990 9990
+files are loaded
+Process Config starts!
+Process Config starts!
+9990 9990
+files are loaded
+Process Config starts!
+9990 9990
+files are loaded
+Process Config starts!
+9990 9990
+files are loaded
+Process Config starts!
+9990 9990
+files are loaded
+Process Config starts!
+9990 9990
+files are loaded
+Process Config starts!
+9990 9990
+files are loaded
+Process Config starts!
+9990 9990
+files are loaded
+9990 9990
+files are loaded
+Process Config starts!
+Process Config starts!
+9990 9990
+files are loaded
+9990 9990
+files are loaded
+9990 9990
+files are loaded
+Process Config starts!
+9990 9990
+files are loaded
+Process Config starts!
+Process Config starts!
+Process Config starts!
+9990 9990
+files are loaded
+Process Config starts!
+9990 9990
+files are loaded
+Process Config starts!
+9990 9990
+files are loaded
+Process Config starts!
+9990 9990
+files are loaded
+Process Config starts!
+9990 9990
+files are loaded
+Process Config starts!
+9990 9990
+files are loaded
+Process Config starts!
+9990 9990
+files are loaded
+9990 9990
+files are loaded
+Process Config starts!
+Process Config starts!
+9990 9990
+files are loaded
+9990 9990
+files are loaded
+Process Config starts!
+Process Config starts!
+9990 9990
+files are loaded
+Process Config starts!
+9990 9990
+files are loaded
+Process Config starts!
+9990 9990
+files are loaded
+Process Config starts!
+9990 9990
+files are loaded
+Process Config starts!
+9990 9990
+files are loaded
+9990 9990
+files are loaded
+Process Config starts!
+Process Config starts!
+9990 9990
+files are loaded
+Process Config starts!
+9990 9990
+files are loaded
+Process Config starts!
+9990 9990
+files are loaded
+Process Config starts!
+9990 9990
+files are loaded
+Process Config starts!
+9990 9990
+files are loaded
+Process Config starts!
+9990 9990
+files are loaded
+Process Config starts!
+9990 9990
+files are loaded
+Process Config starts!
+9990 9990
+files are loaded
+Process Config starts!
+Solving process starts!
+Solving process starts!
+Solving process starts!
+Solving process starts!
+Solving process starts!
+Solving process starts!
+Solving process starts!
+Solving process starts!
+'process_configs' took 882498.46 ms on rank 0
+Solving process starts!
+Solving process starts!
+Solving process starts!
+Solving process starts!
+Solving process starts!
+Solving process starts!
+Solving process starts!
+Solving process starts!
+Solving process starts!
+Solving process starts!
+Solving process starts!
+Solving process starts!
+Solving process starts!
+Solving process starts!
+Solving process starts!
+Solving process starts!
+Solving process starts!
+Solving process starts!
+Solving process starts!
+Solving process starts!
+Solving process starts!
+Solving process starts!
+Solving process starts!
+Solving process starts!
+Solving process starts!
+Solving process starts!
+Solving process starts!
+Solving process starts!
+Solving process starts!
+Solving process starts!
+Solving process starts!
+Solving process starts!
+Solving process starts!
+Solving process starts!
+Solving process starts!
+Solving process starts!
+Solving process starts!
+Solving process starts!
+Solving process starts!
+Solving process starts!
+Dataset created, df_energies deleted!
+49
+Dataset created, df_energies deleted!
+49
+Dataset created, df_energies deleted!
+49
+Dataset created, df_energies deleted!
+49
+Dataset created, df_energies deleted!
+49
+Dataset created, df_energies deleted!
+49
+Dataset created, df_energies deleted!
+49
+Dataset created, df_energies deleted!
+49
+Dataset created, df_energies deleted!
+49
+Dataset created, df_energies deleted!
+49
+0
+Dataset created, df_energies deleted!
+49
+2
+26
+45
+40
+27
+37
+32
+33
+6
+Dataset created, df_energies deleted!
+49
+36
+Dataset created, df_energies deleted!
+49
+Dataset created, df_energies deleted!
+49
+Dataset created, df_energies deleted!
+49
+1
+34
+3
+Dataset created, df_energies deleted!
+49
+9
+Dataset created, df_energies deleted!
+49
+Dataset created, df_energies deleted!
+49
+Dataset created, df_energies deleted!
+49
+25
+42
+4
+5
+Dataset created, df_energies deleted!
+49
+46
+Dataset created, df_energies deleted!
+49
+Dataset created, df_energies deleted!
+49
+30
+Dataset created, df_energies deleted!
+49
+Dataset created, df_energies deleted!
+49
+31
+Dataset created, df_energies deleted!
+49
+35
+12
+Dataset created, df_energies deleted!
+49
+39
+17
+Dataset created, df_energies deleted!
+49
+22
+Dataset created, df_energies deleted!
+49
+18
+Dataset created, df_energies deleted!
+49
+Dataset created, df_energies deleted!
+49
+Dataset created, df_energies deleted!
+49
+Dataset created, df_energies deleted!
+49
+Dataset created, df_energies deleted!
+49
+28
+Dataset created, df_energies deleted!
+49
+Dataset created, df_energies deleted!
+49
+38
+Dataset created, df_energies deleted!
+49
+Dataset created, df_energies deleted!
+49
+23
+15
+21
+Dataset created, df_energies deleted!
+49
+24
+19
+14
+13
+20
+Dataset created, df_energies deleted!
+49
+Dataset created, df_energies deleted!
+49
+16
+Dataset created, df_energies deleted!
+49
+Dataset created, df_energies deleted!
+49
+Dataset created, df_energies deleted!
+49
+Dataset created, df_energies deleted!
+49
+Dataset created, df_energies deleted!
+49
+44
+41
+43
+Dataset created, df_energies deleted!
+49
+47
+Dataset created, df_energies deleted!
+49
+Dataset created, df_energies deleted!
+49
+11
+29
+8
+10
+7
+Gathered all data
+True
+Starting training
+Memory usage 1 is 15.041122436523438
+Traceback (most recent call last):
+  File "/home/dursun/qace/qACE/qACE.py", line 307, in <module>
+  File "/home/dursun/miniforge3/envs/fitsnap/lib/python3.10/site-packages/numpy/_core/shape_base.py", line 287, in vstack
+    return _nx.concatenate(arrs, 0, dtype=dtype, casting=casting)
+numpy._core._exceptions._ArrayMemoryError: Unable to allocate 6.90 GiB for an array with shape (756603, 1224) and data type float64
+slurmstepd-c0: error: *** JOB 74 ON c0 CANCELLED AT 2025-01-29T07:13:05 ***

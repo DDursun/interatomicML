@@ -1,0 +1,110 @@
+----- Global weights set: Overriding group weights.
+'process_configs' took 1299209.32 ms on rank 0
+123
+123
+123
+123
+123
+123
+123
+123
+123
+123
+123
+123
+123
+123
+123
+123
+123
+123
+123
+123
+123
+123
+123
+123
+123
+123
+123
+123
+123
+123
+123
+123
+123
+123
+123
+123
+123
+123
+123
+123
+123
+123
+123
+123
+123
+123
+123
+123
+33
+34
+35
+32
+41
+18
+13
+44
+38
+42
+40
+31
+29
+27
+17
+20
+45
+47
+22
+14
+11
+26
+9
+43
+15
+7
+37
+3
+36
+2
+4
+5
+25
+6
+46
+1
+30
+16
+8
+39
+23
+19
+10
+0
+12
+24
+28
+21
+Gathered all data
+True
+Starting training
+Memory usage 1 is 172.03963470458984
+Fitting finished in 4950.17918920517 sec
+Memory usage 2 is 343.80109786987305
+Energy training RMSE is 0.004554138368871718
+Force training RMSE is 0.09166686203505657
+Energy testing RMSE is 0.004901428442073662
+Force testing RMSE is 0.09692766510403154
+Energy RMSE if tested on the entire dataset is 0.004730971203442174
+Force RMSE if tested on the entire dataset is 0.09432902690034088
