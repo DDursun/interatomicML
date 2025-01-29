@@ -12,6 +12,10 @@ from settings import ACE_settings
 import warnings
 warnings.filterwarnings("ignore", category=UserWarning, module="torch.optim.lr_scheduler")
 
+np.seterr(all="ignore")  # Optional: Suppresses floating-point warnings
+np.float = np.float32  # Set default float type to float32
+
+
 # os.chdir("lanl/W/")
 
 def ase_scraper(snap, frames, energies, forces, stresses):
@@ -93,14 +97,14 @@ def load_files(file_name_structures, file_name_energies):
     df_structures = pandas.read_hdf(file_name_structures)
     print("df_structures: ", (len(df_structures)))
     df_structures.sort_index(inplace=True)
-    df_structures = df_structures.iloc[:len(df_structures)//50]
-    print(df_structures.head(10))
+    df_structures = df_structures.iloc[:len(df_structures)//10]
+    #print(df_structures.head(10))
 
     df_energies = pandas.read_hdf(file_name_energies)
     print("df_energies: ", (len(df_energies)))
     df_energies.sort_values(by=["index"], inplace=True)
-    df_energies = df_energies.iloc[:len(df_energies)//50]
-    print(df_energies.head(10))
+    df_energies = df_energies.iloc[:len(df_energies)//10]
+    #print(df_energies.head(10))
 
     df_structures = df_structures[df_structures.index.isin(df_energies["index"].values)]
     
@@ -189,7 +193,7 @@ for config_ACE in fs_instance1.solver.configs[a1:a2]:
 
 bw = np.array(bw)
 print("Rank: ", rank)
-np.savez('/home/dursun/qace/qACE/output'+str(rank)+'.npz',*aw)
+np.savez('/home/dursun/FitSNAP/qACE/output/output'+str(rank)+'.npz',*aw)
 del aw
 # big_aw = comm.gather(aw, root=0)
 big_bw = comm.gather(bw, root=0)
@@ -229,11 +233,11 @@ if rank == 0:
     aw = np.zeros((len(hlfpnt1)+len(hlfpnt2),round(num_desc*(num_desc+1)/2)-1))
     aw_ind = 0
     for i in range(size):
-        loaded_aw = np.load('/home/dursun/qace/qACE/output'+str(i)+'.npz')
+        loaded_aw = np.load('/home/dursun/FitSNAP/qACE/output/output'+str(i)+'.npz')
         for name in loaded_aw.files:
             aw[aw_ind:(aw_ind+loaded_aw[name].shape[0]),:] = loaded_aw[name]
             aw_ind += loaded_aw[name].shape[0]
-        os.remove('/home/dursun/qace/qACE/output'+str(i)+'.npz')
+        os.remove('/home/dursun/FitSNAP/qACE/output/output'+str(i)+'.npz')
         del loaded_aw
     print("Gathered all data")
     print(configs_index[-1][-1] == aw.shape[0]-1)

@@ -27,3 +27,8 @@ docs/build/
 
 # ignore PACE library files
 fitsnap3lib/lib/sym_ACE/lib/*.pickle
+
+*.h5
+*.hdf
+*.log
+*.sh
